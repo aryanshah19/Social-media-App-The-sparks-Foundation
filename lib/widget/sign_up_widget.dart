@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_signin_example/widget/Twitter_signin.dart';
 import 'package:google_signin_example/widget/background_painter.dart';
 import 'package:google_signin_example/widget/google_signup_button_widget.dart';
 
@@ -30,8 +31,9 @@ class SignUpWidget extends StatelessWidget {
               ),
             ),
           ),
-          Spacer(),
+          Spacer(flex: 1),
           GoogleSignupButtonWidget(),
+          TwitterSignupButtonWidget(),
           SizedBox(height: 12),
           Text(
             'Login to continue',
