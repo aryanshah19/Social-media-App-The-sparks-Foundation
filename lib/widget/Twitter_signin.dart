@@ -9,7 +9,7 @@ class TwitterSignupButtonWidget extends StatelessWidget {
     padding: EdgeInsets.all(4),
     child: OutlineButton.icon(
       label: Text(
-        'Sign-in with Twitter',
+        'Sign-in with Linked-in',
         style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
       ),
       shape: StadiumBorder(),
@@ -17,7 +17,7 @@ class TwitterSignupButtonWidget extends StatelessWidget {
       highlightedBorderColor: Colors.black,
       borderSide: BorderSide(color: Colors.black),
       textColor: Colors.black,
-      icon: FaIcon(FontAwesomeIcons.twitter, color: Colors.blue),
+      icon: FaIcon(FontAwesomeIcons.linkedin,color:Colors.blue),
       onPressed: () {
         final provider =
         Provider.of<GoogleSignInProvider>(context, listen: false);
