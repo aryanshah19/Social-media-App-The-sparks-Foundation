@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_twitter_login/flutter_twitter_login.dart';
+import 'package:google_signin_example/widget/background_painter.dart';
 
 
 class Twittermain extends StatefulWidget {
@@ -50,13 +51,18 @@ class _MyAppState extends State<Twittermain> {
     return new MaterialApp(
       home: new Scaffold(
         appBar: new AppBar(
+          backgroundColor: Colors.purple,
+          centerTitle: true,
           title: new Text('Twitter login sample'),
         ),
         body: new Center(
+          child:new Container(
+            width: MediaQuery. of(context). size. width,
+           color: Colors.white,
           child: new Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              new Text(_message),
+              Text(_message),
               new RaisedButton(
                 child: new Text('Log in'),
                 onPressed: _login,
@@ -66,6 +72,7 @@ class _MyAppState extends State<Twittermain> {
                 onPressed: _logout,
               ),
             ],
+          ),
           ),
         ),
       ),
