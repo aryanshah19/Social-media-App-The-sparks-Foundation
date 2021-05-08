@@ -16,15 +16,4 @@ Learn how to integrate Signin with Google into your Firebase and Flutter app.
 | :----------------------------------: | :----------------------------------: |
 | <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.jpg" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub_ad.png?alt=media" width="350"></a> |
 
-➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
 
-### 📺&ensp;Watch Video
-
-##### [YouTube video](https://www.youtube.com/watch?v=ogW83xGQGTg "Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
-<a href="https://www.youtube.com/watch?v=ogW83xGQGTg&feature=player_embedded
-" target="_blank"><img src="http://img.youtube.com/vi/ogW83xGQGTg/maxresdefault.jpg" 
-alt="Flutter Tutorial - Google SignIn With Firebase YouTube video" width="480" border="10" /></a>
-
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[courses]: https://johannesmilke.teachable.com/p/home
