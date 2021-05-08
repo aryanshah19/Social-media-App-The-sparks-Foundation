@@ -1,11 +1,4 @@
-# Flutter Tutorial - Google SignIn With Firebase
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![Buy Flutter Courses](https://img.shields.io/static/v1?label=Buy&message=My%20Flutter%20Courses&color=5FB709&style=for-the-badge)][courses]
-    
-[![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/google_signin_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/google_signin_example) 
-[![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/google_signin_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/google_signin_example/fork)
-[![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
+# Flutter App - Google and twitter SignIn With Firebase
 
 Learn how to integrate Signin with Google into your Firebase and Flutter app.
 
@@ -21,7 +14,7 @@ Learn how to integrate Signin with Google into your Firebase and Flutter app.
 
 |              App Preview             |             Course Preview           |
 | :----------------------------------: | :----------------------------------: |
-| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.gif" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub_ad.png?alt=media" width="350"></a> |
+| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.jpg" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub_ad.png?alt=media" width="350"></a> |
 
 ➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
 
