@@ -14,7 +14,7 @@ Learn how to integrate Signin with Google,Twitter and your own app into your Fir
 
 |              App Preview             |             Screenshot            |
 | :----------------------------------: | :----------------------------------: |
-| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="ezgif.com-gif-maker.gif" width="400"></a> | <img src="preview.jpg" width="400"></a> |
+| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.gif" width="400"></a> | <img src="preview.jpg" width="400"></a> |
 
 ### 📺&ensp;Watch Video
 
