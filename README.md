@@ -1,5 +1,5 @@
   # Social Media Intergation App (Task #5) , done for The Sparks Foundation as GRIP 
-[![Youtube](https://img.shields.io/static/v1?label=CharmiShah&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=AryanShah&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 
 Learn how to integrate Signin with Google,Twitter and your own app into your Firebase and Flutter app.
@@ -23,6 +23,6 @@ Learn how to integrate Signin with Google,Twitter and your own app into your Fir
 " target="_blank"><img src="http://img.youtube.com/vi/ogW83xGQGTg/maxresdefault.jpg" 
 alt="Flutter Tutorial - Google SignIn With Firebase YouTube video" width="480" border="10" /></a>
 
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
+[twitter]: https://twitter.com/aryxnshah
+[youtube]: https://www.youtube.com/channel/UCsdb_0-4r1XTG-3STi6PBoA
 [courses]: https://johannesmilke.teachable.com/p/home
