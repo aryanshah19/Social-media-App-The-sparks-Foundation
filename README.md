@@ -16,13 +16,3 @@ Learn how to integrate Signin with Google,Twitter and your own app into your Fir
 | :----------------------------------: | :----------------------------------: |
 | <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.gif" width="400"></a> | <img src="preview.jpg" width="400"></a> |
 
-### 📺&ensp;Watch Video
-
-##### [YouTube video](https://www.youtube.com/watch?v=ogW83xGQGTg "Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
-<a href="https://www.youtube.com/watch?v=ogW83xGQGTg&feature=player_embedded
-" target="_blank"><img src="http://img.youtube.com/vi/ogW83xGQGTg/maxresdefault.jpg" 
-alt="Flutter Tutorial - Google SignIn With Firebase YouTube video" width="480" border="10" /></a>
-
-[twitter]: https://twitter.com/aryxnshah
-[youtube]: https://www.youtube.com/channel/UCsdb_0-4r1XTG-3STi6PBoA
-[courses]: https://johannesmilke.teachable.com/p/home
