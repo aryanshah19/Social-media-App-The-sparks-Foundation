@@ -16,3 +16,5 @@ Learn how to integrate Signin with Google,Twitter and your own app into your Fir
 | :----------------------------------: | :----------------------------------: |
 | <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.gif" width="400"></a> | <img src="preview.jpg" width="400"></a> |
 
+[twitter]: https://twitter.com/aryxnshah
+[youtube]: https://www.youtube.com/channel/UCsdb_0-4r1XTG-3STi6PBoA
